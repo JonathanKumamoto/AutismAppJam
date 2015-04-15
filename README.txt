@@ -1,1 +1,0 @@
-This is the GitHub repo for Team Game On's Autism App Jam Project!
